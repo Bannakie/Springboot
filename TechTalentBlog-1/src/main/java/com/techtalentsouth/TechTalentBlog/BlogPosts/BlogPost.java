@@ -56,4 +56,4 @@ public class BlogPost {
 	public String toString() {
 		return "BlogPost [id=" + id + ", title=" + title + ", author=" + author + ", blogEntry=" + blogEntry + "]";
 	}
-}
+}//
