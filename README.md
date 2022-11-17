@@ -1,2 +1,2 @@
-# SpringBootBlog
+# Blog
 
